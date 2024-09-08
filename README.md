@@ -1,5 +1,6 @@
 https://www.sbbkang/
-![image](https://github.com/user-attachments/assets/f00f7b62-2012-402b-8f60-fd16bfe61fc9)
+![image](https://github.com/user-attachments/assets/a93c0bc0-e9f5-410f-95e4-3da225cc8ac9)
+![image](https://github.com/user-attachments/assets/593a83f8-defd-4852-976b-98d940f78e65)
 
 (2024.08.15) 기본 토대 완성    
 (예정) 답변 페이징과 정렬 기능 추가하기   
